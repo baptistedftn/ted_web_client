@@ -1,0 +1,1 @@
+export const SOCKET_URL = 'http://172.16.6.213:8001/'
